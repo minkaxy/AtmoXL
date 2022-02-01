@@ -1,4 +1,5 @@
-Just Rename Titel to Title ._. 
+Just Rename Titel to Title 
+
 -Change background
 -Change Sound after finished install
 
