@@ -1,3 +1,8 @@
+Just Rename Titel to Title ._. 
+-Change background
+-Change Sound after finished install
+
+
 # AtmoXL
 A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 
